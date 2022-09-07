@@ -4,3 +4,11 @@ Type of option
 colour
 vibrant
 
+Darkmode
+video call
+voice call
+
+
+send money
+receive money
+
